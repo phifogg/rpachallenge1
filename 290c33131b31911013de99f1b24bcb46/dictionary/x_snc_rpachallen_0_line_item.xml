@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c72f77d31b31911013de99f1b24bcb25" label="Line Item" max_length="40" name="x_snc_rpachallen_0_line_item" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Comment " max_length="40" name="comment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Name" max_length="40" name="customer_name" type="string"/>
+        <element label="Discount" max_length="40" name="discount" type="currency"/>
+        <element label="Invoice" max_length="32" name="invoice" reference="x_snc_rpachallen_0_invoice" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Price" max_length="20" name="price" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Products" max_length="90" name="products" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element formula="SUBTRACT(MULTIPLY(price, quantity), discount)" label="Total cost" max_length="20" name="total_cost" type="currency" virtual="true" virtual_type="formula"/>
+        <index name="index">
+            <element name="invoice"/>
+        </index>
+    </element>
+</database>

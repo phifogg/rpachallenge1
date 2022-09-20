@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a79c3b131b31911013de99f1b24bcb9b" label="Invoice" max_length="40" name="x_snc_rpachallen_0_invoice" type="collection">
+        <element label="Customer" mandatory="true" max_length="32" name="customer" reference="customer_account" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Processed" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Payed" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element label="Total Price" max_length="20" name="total_price" read_only="true" type="currency"/>
+        <index name="index">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>
