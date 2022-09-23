@@ -4,13 +4,13 @@
             <element>invoice</element>
             <position>0</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>42afbfd31b31911013de99f1b24bcb59</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>5d7ce6aa1b8a1d1013de99f1b24bcb4b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>price</element>
             <position>1</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>46afbfd31b31911013de99f1b24bcb59</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>517ce6aa1b8a1d1013de99f1b24bcb4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>4aafbfd31b31911013de99f1b24bcb59</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>557ce6aa1b8a1d1013de99f1b24bcb4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,83 +46,69 @@
             <element>quantity</element>
             <position>3</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>4eafbfd31b31911013de99f1b24bcb59</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>597ce6aa1b8a1d1013de99f1b24bcb4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>discount</element>
-            <position>4</position>
-            <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>42afbfd31b31911013de99f1b24bcb5a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_cost</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>46afbfd31b31911013de99f1b24bcb5a</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>5d7ce6aa1b8a1d1013de99f1b24bcb4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>4aafbfd31b31911013de99f1b24bcb5a</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>517ce6aa1b8a1d1013de99f1b24bcb4d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comment</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>4eafbfd31b31911013de99f1b24bcb5a</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>557ce6aa1b8a1d1013de99f1b24bcb4d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>products</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2022-09-13 12:41:20</sys_created_on>
-            <sys_id>42afbfd31b31911013de99f1b24bcb5b</sys_id>
+            <sys_created_on>2022-09-23 08:58:05</sys_created_on>
+            <sys_id>597ce6aa1b8a1d1013de99f1b24bcb4d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_rpachallen_0_line_item" sys_domain="global" view="Default view">213ff7d31b31911013de99f1b24bcb09</sys_ui_section>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2022-09-13 12:41:20</sys_updated_on>
+            <sys_updated_on>2022-09-23 08:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

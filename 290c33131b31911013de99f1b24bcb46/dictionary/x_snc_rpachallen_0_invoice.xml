@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="a79c3b131b31911013de99f1b24bcb9b" label="Invoice" max_length="40" name="x_snc_rpachallen_0_invoice" type="collection">
         <element label="Customer" mandatory="true" max_length="32" name="customer" reference="customer_account" type="reference"/>
+        <element label="Discount" max_length="20" name="discount" type="currency"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
             <choice>
