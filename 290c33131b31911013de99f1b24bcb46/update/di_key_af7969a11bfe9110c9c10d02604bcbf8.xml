@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="di_key">
+    <di_key action="INSERT_OR_UPDATE">
+        <display_name>Student ID</display_name>
+        <group_index>0</group_index>
+        <key_group/>
+        <name>studentid</name>
+        <order>2</order>
+        <sys_class_name>di_key</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2022-10-27 08:18:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>af7969a11bfe9110c9c10d02604bcbf8</sys_id>
+        <sys_name>Student ID</sys_name>
+        <sys_package display_value="RPAChallenge1" source="x_snc_rpachallen_0">290c33131b31911013de99f1b24bcb46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RPAChallenge1">290c33131b31911013de99f1b24bcb46</sys_scope>
+        <sys_update_name>di_key_af7969a11bfe9110c9c10d02604bcbf8</sys_update_name>
+        <target_field/>
+        <target_table/>
+        <task_definition display_value="Grade Change">6e19e1a11bfe9110c9c10d02604bcb2e</task_definition>
+        <total_used_positive_samples>0</total_used_positive_samples>
+        <type>Text</type>
+    </di_key>
+</record_update>
